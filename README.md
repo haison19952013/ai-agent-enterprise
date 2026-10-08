@@ -1,10 +1,10 @@
 # AI Agent Enterprise
 
-Lộ trình ghi lại hành trình học và phát triển AI Agent theo hướng enterprise.
+A learning roadmap documenting the journey of learning and developing enterprise AI agents.
 
 ## Curriculum
 
-### 1. ✅ Nền tảng Agentic AI + Framework Harness
+### 1. ✅ Agentic AI Foundations + Framework Harness
 
 - LLM Fundamentals
 - Transformer & Attention
@@ -12,9 +12,9 @@ Lộ trình ghi lại hành trình học và phát triển AI Agent theo hướn
 - Tool Calling
 - MCP (Model Context Protocol)
 - AI Agent Landscape
-- **Lab:** Ví dụ điển hình về Agentic: Claude Code
+- **Lab:** A representative example of agentic AI: Claude Code
 
-### 2. 🔒 Context Harness - Nền tảng RAG
+### 2. 🔒 Context Harness - RAG Foundations
 
 - Context Harness
 - RAG Architecture
@@ -25,21 +25,21 @@ Lộ trình ghi lại hành trình học và phát triển AI Agent theo hướn
 - Agent Memory
 - Context Compression
 - Long Context Optimization
-- **Lab:** Xây Enterprise RAG; Multi-source Knowledge Base
+- **Lab:** Build an enterprise RAG system; multi-source knowledge base
 
-### 3. 🔒 [Bổ trợ] Docker + Cloud
+### 3. 🔒 [Supplementary] Docker + Cloud
 
-- Docker là gì?
-- Phân biệt image và container
-- Cài đặt Docker
-- Xây dựng Docker Image và chạy Docker Container
-- Docker container
+- What is Docker?
+- Differences between images and containers
+- Installing Docker
+- Building a Docker image and running a Docker container
+- Docker containers
 
-### 4. 🔒 [Live] Context Harness - Thực hành lập trình - Lập trình đầy đủ 1 agent
+### 4. 🔒 [Live] Context Harness - Hands-on Coding - Build a Complete Agent
 
-- Lập trình reasoning
-- Lập trình gọi tools
-- Lập trình truy xuất memory
+- Implementing reasoning
+- Implementing tool calling
+- Implementing memory retrieval
 
 ### 5. 🔒 Tool Harness
 
@@ -54,9 +54,9 @@ Lộ trình ghi lại hành trình học và phát triển AI Agent theo hướn
 - Audit Logging
 - **Lab:** CRM Agent; ERP Agent; Database Agent
 
-### 6. 🔒 Bài tập lớn 1 - Lập trình Drive Agent
+### 6. 🔒 Major Assignment 1 - Build a Drive Agent
 
-- Hướng dẫn làm bài tập
+- Assignment guide
 
 ### 7. 🔒 Orchestration Harness
 
@@ -119,9 +119,9 @@ Lộ trình ghi lại hành trình học và phát triển AI Agent theo hướn
 - Compliance Frameworks
 - **Lab:** AI Governance Dashboard
 
-### 12. 🔒 Project cuối khóa - Enterprise AI Agent Platform
+### 12. 🔒 Capstone Project - Enterprise AI Agent Platform
 
-Xây dựng một hệ thống hoàn chỉnh gồm:
+Build a complete system consisting of:
 
 - Knowledge Base
 - RAG Pipeline
